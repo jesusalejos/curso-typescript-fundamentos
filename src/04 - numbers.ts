@@ -27,5 +27,6 @@
    let bin = 0b1010; // 10
    console.log('bin', bin);
 
+
    const myNumber: number = 10;
  })();

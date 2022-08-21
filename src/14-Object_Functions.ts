@@ -13,6 +13,9 @@
 
   const products: any[] = [];
 
+  const rta = 1 + '1';
+  console.log(rta)
+
   const addProduct = (data: {
     title: string,
     createdAt: Date,
